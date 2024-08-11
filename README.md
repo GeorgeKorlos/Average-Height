@@ -1,1 +1,1 @@
-# Average-Height
+This Python script is designed to calculate the total height, number of students, and the average height of students based on user input. It reads a list of student heights, processes the data, and outputs the results.
